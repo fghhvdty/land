@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://example.com/thumb1.jpg",
+    "title": "Premium Mod Pack Vol.1",
+    "description": "100+ mods with anti-ban",
+    "productJsonUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/products1.json"
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://example.com/thumb2.jpg",
+    "title": "HD Texture Pack",
+    "description": "4K graphics for supported games",
+    "productJsonUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/products2.json"
+  }
+]
