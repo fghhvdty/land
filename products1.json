@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "fileIcon": "📦",
+    "fileName": "Premium_Mod_v2.5.apk",
+    "fileSize": "45.2 MB",
+    "downloadUrl": "https://example.com/download1.apk",
+    "version": "2.5",
+    "requirements": "Android 7.0+"
+  },
+  {
+    "id": "2",
+    "fileIcon": "🎮",
+    "fileName": "Unlocker_Tool.zip",
+    "fileSize": "12.1 MB",
+    "downloadUrl": "https://example.com/download2.zip",
+    "version": "1.0",
+    "requirements": "All devices"
+  }
+]
