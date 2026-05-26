@@ -1,16 +1,98 @@
 [
   {
     "id": "1",
-    "imageUrl": "https://example.com/thumb1.jpg",
-    "title": "Premium Mod Pack Vol.1",
-    "description": "100+ mods with anti-ban",
-    "productJsonUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/products1.json"
+    "thumbnailUrl": "https://example.com/gta5_thumb.jpg",
+    "title": "GTA 5 Mod Pack",
+    "description": "Best mods for GTA 5 with unlimited money",
+    "files": [
+      {
+        "id": "1",
+        "fileIcon": "🚗",
+        "fileName": "GTA5_SuperCar_Pack.apk",
+        "fileSize": "125 MB",
+        "downloadUrl": "https://example.com/gta5_car.apk",
+        "version": "3.0",
+        "requirements": "Android 9.0+"
+      },
+      {
+        "id": "2",
+        "fileIcon": "💰",
+        "fileName": "GTA5_Money_Generator.apk",
+        "fileSize": "8.5 MB",
+        "downloadUrl": "https://example.com/gta5_money.apk",
+        "version": "2.1",
+        "requirements": "Android 8.0+"
+      },
+      {
+        "id": "3",
+        "fileIcon": "🔫",
+        "fileName": "GTA5_Weapon_Pack.zip",
+        "fileSize": "67 MB",
+        "downloadUrl": "https://example.com/gta5_weapons.zip",
+        "version": "1.5",
+        "requirements": "All devices"
+      }
+    ]
   },
   {
     "id": "2",
-    "imageUrl": "https://example.com/thumb2.jpg",
-    "title": "HD Texture Pack",
-    "description": "4K graphics for supported games",
-    "productJsonUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/products2.json"
+    "thumbnailUrl": "https://example.com/ff_thumb.jpg",
+    "title": "Free Fire Headshot Config",
+    "description": "Auto headshot 100% working anti-ban",
+    "files": [
+      {
+        "id": "1",
+        "fileIcon": "🎯",
+        "fileName": "FF_AutoHeadshot.apk",
+        "fileSize": "34 MB",
+        "downloadUrl": "https://example.com/ff_headshot.apk",
+        "version": "4.2",
+        "requirements": "Android 7.0+"
+      },
+      {
+        "id": "2",
+        "fileIcon": "🔴",
+        "fileName": "FF_Diamond_Generator.apk",
+        "fileSize": "6.2 MB",
+        "downloadUrl": "https://example.com/ff_diamonds.apk",
+        "version": "1.0",
+        "requirements": "All devices"
+      },
+      {
+        "id": "3",
+        "fileIcon": "🎨",
+        "fileName": "FF_HD_Texture_Pack.apk",
+        "fileSize": "156 MB",
+        "downloadUrl": "https://example.com/ff_texture.apk",
+        "version": "2.0",
+        "requirements": "Android 9.0+"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "thumbnailUrl": "https://example.com/bgmi_thumb.jpg",
+    "title": "BGMI Ultra HD Graphics",
+    "description": "4K graphics + 90 FPS + No ban",
+    "files": [
+      {
+        "id": "1",
+        "fileIcon": "🎨",
+        "fileName": "BGMI_4K_Graphics.apk",
+        "fileSize": "89 MB",
+        "downloadUrl": "https://example.com/bgmi_graphics.apk",
+        "version": "2.3",
+        "requirements": "Android 10.0+"
+      },
+      {
+        "id": "2",
+        "fileIcon": "⚡",
+        "fileName": "BGMI_90FPS_Unlocker.apk",
+        "fileSize": "4.1 MB",
+        "downloadUrl": "https://example.com/bgmi_fps.apk",
+        "version": "1.2",
+        "requirements": "Android 9.0+"
+      }
+    ]
   }
 ]
