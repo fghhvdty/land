@@ -36,5 +36,43 @@
         "price": "₹300"
       }
     ]
+  },
+  {
+    "id": "3",
+    "thumbnailUrl": "https://example.com/thumb3.jpg",
+    "title": "Premium Mod Pack",
+    "description": "Best mods for games",
+    "files": [
+      {
+        "id": "1",
+        "fileIcon": "📦",
+        "fileName": "Premium_Mod.apk",
+        "fileSize": "45 MB",
+        "downloadUrl": "https://example.com/premium.apk",
+        "version": "2.0",
+        "requirements": "Android 9.0+",
+        "locked": true,
+        "price": "₹99"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "thumbnailUrl": "https://example.com/thumb4.jpg",
+    "title": "Exclusive Tool",
+    "description": "Pro tools for modding",
+    "files": [
+      {
+        "id": "1",
+        "fileIcon": "🛠️",
+        "fileName": "Exclusive_Tool.zip",
+        "fileSize": "12 MB",
+        "downloadUrl": "https://example.com/tool.zip",
+        "version": "1.0",
+        "requirements": "All devices",
+        "locked": true,
+        "price": "₹20"
+      }
+    ]
   }
 ]
